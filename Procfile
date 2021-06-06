@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run Student_rep.py
+web: sh setup.sh && streamlit run Students_rep.py
